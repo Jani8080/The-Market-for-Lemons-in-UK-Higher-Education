@@ -12,11 +12,11 @@ by Peter Kahl, 21 August 2025
 
 ### Abstract
 
-This paper argues that UK higher education faces a ‘lemons market’ problem: information asymmetries created by opaque rankings providers and policy think tanks distort market signals, misprice systemic risk, and undermine resilience. Drawing on Akerlof’s theory of information failure and the lessons of the 2008 financial crisis, it shows how organisations such as HEPI and _Times Higher Education_ replicate the conflicts of interest once endemic in credit rating agencies. Their outputs influence public policy, investor confidence, and institutional financial strategies, yet operate without robust disclosure, fiduciary duties, or independent oversight. The paper advances a reform agenda based on fiduciary openness, methodological transparency, stress testing, and parliamentary scrutiny insulated from capture. It concludes that UK higher education requires its own equivalent of post-2008 ratings reform to restore credibility and systemic resilience.
+UK higher education exhibits a classic ‘lemons market’ problem: information asymmetry distorts signals of quality and risk, mispricing systemic fragility across a £200bn loan book and £40bn tuition market. OECD data show England as an outlier in its dependence on private fees and international students, heightening exposure to geopolitical and currency shocks. Yet the key intermediaries shaping policy and investor confidence — HEPI and _Times Higher Education_ — operate with opaque governance and conflicts of interest akin to credit rating agencies before 2008. Their outputs influence bond prospectuses, financial statements, and government policy, but without fiduciary safeguards or oversight. Just as post-crisis finance required ratings reform, higher education now needs fiduciary openness, transparency of methodology, and capture-resistant regulation to restore credibility and resilience.
 
 ### Keywords
 
-higher education, uk universities, information asymmetry, market for lemons, systemic risk, governance opacity, fiduciary openness, rankings, HEPI, Times Higher Education, conflicts of interest, ratings reform, stress testing, financial governance, parliamentary oversight, credit rating agencies, disclosure, investor confidence, bond markets, financial regulation
+higher education, UK universities, information asymmetry, market for lemons, systemic risk, governance opacity, fiduciary openness, rankings, HEPI, Times Higher Education, conflicts of interest, ratings reform, stress testing, financial governance, parliamentary oversight, credit rating agencies, disclosure, investor confidence, bond markets, financial regulation
 
 ---
 
